@@ -1,5 +1,5 @@
 # 💫 About Me:
-Finalista da Licenciatura em Comunicação e Multimédia (UTAD) , focado em<br>desenvolver uma carreira na programação e desenvolvimento web,<br>abrangendo tanto front-end como back-end. Possuo um perfil diferenciador<br>que une a lógica técnica à criatividade. Sou um profissional dedicado,<br>responsável e pontual , que valoriza a organização e a estrutura para entregar<br>soluções digitais acessíveis e inovadoras. Procuro um desafio que me permita<br>consolidar as minhas competências e transformar ideias em soluções<br>concretas.
+Finalista da Licenciatura em Comunicação e Multimédia (UTAD) , focado em<br>desenvolver uma carreira na programação e desenvolvimento web,<br>abrangendo tanto front-end como back-end. Sou um profissional dedicado,<br>responsável e pontual , que valoriza a organização e a estrutura para entregar<br>soluções digitais acessíveis e inovadoras. Procuro um desafio que me permita<br>consolidar as minhas competências e transformar ideias em soluções<br>concretas.
 
 
 ## 🌐 Socials:
